@@ -7,7 +7,7 @@ func getShortName():
 	return "Hyper"
 
 func getVisibleName():
-	return "Hyper Barer"
+	return "Hyper Bearer"
 
 func getVisibleDescription():
 	return "Shows how much you are honed to using bluespace anomalies"
